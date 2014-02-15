@@ -1,0 +1,9 @@
+<?PHP
+
+$user_name = 'YOUR_DB_USERNAME';
+
+$password = 'YOUR_DB_PASSWORD';
+
+$hostname = 'YOUR_RPI_HOSTNAME_FQDN';
+
+?>
